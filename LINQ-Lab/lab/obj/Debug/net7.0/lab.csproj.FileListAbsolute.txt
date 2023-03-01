@@ -1,0 +1,15 @@
+D:\ITI-9-Months\25- LINQ\lab\lab\bin\Debug\net7.0\lab.exe
+D:\ITI-9-Months\25- LINQ\lab\lab\bin\Debug\net7.0\lab.deps.json
+D:\ITI-9-Months\25- LINQ\lab\lab\bin\Debug\net7.0\lab.runtimeconfig.json
+D:\ITI-9-Months\25- LINQ\lab\lab\bin\Debug\net7.0\lab.dll
+D:\ITI-9-Months\25- LINQ\lab\lab\bin\Debug\net7.0\lab.pdb
+D:\ITI-9-Months\25- LINQ\lab\lab\obj\Debug\net7.0\lab.csproj.AssemblyReference.cache
+D:\ITI-9-Months\25- LINQ\lab\lab\obj\Debug\net7.0\lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-9-Months\25- LINQ\lab\lab\obj\Debug\net7.0\lab.AssemblyInfoInputs.cache
+D:\ITI-9-Months\25- LINQ\lab\lab\obj\Debug\net7.0\lab.AssemblyInfo.cs
+D:\ITI-9-Months\25- LINQ\lab\lab\obj\Debug\net7.0\lab.csproj.CoreCompileInputs.cache
+D:\ITI-9-Months\25- LINQ\lab\lab\obj\Debug\net7.0\lab.dll
+D:\ITI-9-Months\25- LINQ\lab\lab\obj\Debug\net7.0\refint\lab.dll
+D:\ITI-9-Months\25- LINQ\lab\lab\obj\Debug\net7.0\lab.pdb
+D:\ITI-9-Months\25- LINQ\lab\lab\obj\Debug\net7.0\lab.genruntimeconfig.cache
+D:\ITI-9-Months\25- LINQ\lab\lab\obj\Debug\net7.0\ref\lab.dll
